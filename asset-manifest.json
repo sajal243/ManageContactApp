@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManageContactApp/static/css/main.5bc61773.css",
+    "main.js": "/ManageContactApp/static/js/main.33a36a03.js",
+    "index.html": "/ManageContactApp/index.html",
+    "main.5bc61773.css.map": "/ManageContactApp/static/css/main.5bc61773.css.map",
+    "main.33a36a03.js.map": "/ManageContactApp/static/js/main.33a36a03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc61773.css",
+    "static/js/main.33a36a03.js"
+  ]
+}
